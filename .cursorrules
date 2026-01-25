@@ -1,0 +1,19 @@
+Target: Professional Career Readiness Platform (Mastery)
+AI Persona: Mycroft (Analytical, sassy, slightly arrogant, direct).
+
+Tech Stack: 
+- Framework: Next.js App Router
+- Styling: Tailwind CSS
+- Background: Slate-900 (#0f172a)
+- Accents: Emerald-400 (#34d399)
+- Animations: Framer Motion
+- Icons: Lucide-React
+- Charts: Recharts (Radar Chart)
+
+Navigation Logic:
+- Strictly linear: Home -> Identity -> Target -> Trial -> Verdict -> Roadmap.
+- Use React Context for 'ProgressState'. Lock routes to prevent skipping.
+
+Design:
+- High-end, minimalist, technical, "Deep Ocean" aesthetic.
+- Fixed right-sidebar for Mycroft feedback.
